@@ -630,3 +630,5 @@ def intersection(a1, b1, a2, b2):
 print(intersection(1, 5, 2, 6))  # (2, 5)
 print(intersection(1, 5, 6, 7))  # ()
 print(intersection(1, 5, 1, 5))  # (1, 5)
+
+# dasda
